@@ -1,0 +1,3 @@
+Progdi		:Tekhnik Informatika
+Fakultas	:Teknik Informasi dan Komunikasi
+Universitas 	:Universitas Semarang
